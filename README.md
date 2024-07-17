@@ -1,2 +1,0 @@
-# project
-# insta_clone
